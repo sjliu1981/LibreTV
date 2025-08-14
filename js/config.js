@@ -133,6 +133,36 @@ const API_SITES = {
         api: 'https://lbapi9.com/api.php/provide/vod/',
         name: '乐播资源',
         adult: true
+    },
+    aivin: {
+        api: 'http://lbapiby.com/api.php/provide/vod/',
+        name: 'AIvin',
+        adult: true
+    },
+    jpzy: {
+        api: 'https://www.jingpinx.com//api.php/provide/vod/',
+        name: '精品资源',
+        adult: true
+    },
+    slzy: {
+        api: 'https://slapibf.com/api.php/provide/vod/',
+        name: '森林资源',
+        adult: true
+    },
+    fycj: {
+        api: 'http://fhapi9.com/api.php/provide/vod/',
+        name: '番外采集',
+        adult: true
+    },
+    sngzj: {
+        api: 'https://api.sexnguon.com/api.php/provide/vod/',
+        name: '色南国资源',
+        adult: true
+    },
+    ly: {
+        api: 'https://lbapi9.com/api.php/provide/vod/',
+        name: '老鸭2',
+        adult: true
     }
 };
 
