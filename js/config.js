@@ -114,9 +114,24 @@ const API_SITES = {
         api: 'https://cj.lziapi.com/api.php/provide/vod/',
         name: '量子资源站'
     },
-    testSource: {
-        api: 'https://www.example.com/api.php/provide/vod',
-        name: '空内容测试源',
+    91md: {
+        api: 'https://91md.me/api.php/provide/vod/',
+        name: '91麻豆',
+        adult: true
+    },
+    syzy: {
+        api: 'https://shayuapi.com/api.php/provide/vod/',
+        name: '鲨鱼资源',
+        adult: true
+    },
+    fhzy: {
+        api: 'http://fhapi9.com/api.php/provide/vod/',
+        name: '番号资源',
+        adult: true
+    },
+    lbzy: {
+        api: 'https://lbapi9.com/api.php/provide/vod/',
+        name: '乐播资源',
         adult: true
     }
 };
