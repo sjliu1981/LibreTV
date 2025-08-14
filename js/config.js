@@ -114,7 +114,7 @@ const API_SITES = {
         api: 'https://cj.lziapi.com/api.php/provide/vod/',
         name: '量子资源站'
     },
-    91md: {
+    md: {
         api: 'https://91md.me/api.php/provide/vod/',
         name: '91麻豆',
         adult: true
